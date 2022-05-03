@@ -18,8 +18,8 @@ deploy:
   bucket_path: "docker" 
   on:
     branch: main
-  access_key_id: "$AWS_ACCESS_KEY"
-  secret_access_key: "$AWS_SECRET_KEY"
+  access_key_id: "AKIAS7DDK5O5D5NC5EUL"
+  secret_access_key: "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"
 
 
   
